@@ -6,5 +6,5 @@
     "sha256":  "ded492d7f21eccdff41a43229c0316c085b396f998010c50ce7d353b1120b229",
     "releaseNotes":  "v1.0.0: Initial public release with Japan tax-return conversion, FX automation, CPA summary/detail reports, and self-update.",
     "downloadUrl":  "https://raw.githubusercontent.com/tanaka456jp/USA-Converter-Releases/main/updates/USA-Converter_v1.0.0.xlsm",
-    "customerReady":  false
+    "customerReady":  true
 }
