@@ -1,10 +1,10 @@
-{
-  "schemaVersion": 1,
-  "product": "usa-converter",
-  "version": "1.0.3",
-  "channel": "stable",
-  "sha256": "5241C5D93A8A770B0C13640C8F0959067EB7BB70E309DEBDF16AB9DD02AFE0DF",
-  "releaseNotes": "v1.0.3: 起動時修復と数式監査の不具合を修正。更新時のデータ復元、自動バックアップ、更新通知、MENU操作、通常起動と配布版の検証を強化しました。",
-  "downloadUrl": "https://raw.githubusercontent.com/tanaka456jp/USA-Converter-Releases/main/updates/USA-Converter_v1.0.3.xlsm",
-  "customerReady": true
+﻿{
+    "schemaVersion":  1,
+    "product":  "usa-converter",
+    "version":  "1.0.4",
+    "channel":  "stable",
+    "sha256":  "936ccbe86d214203c39af3f50c40f9d42840019257c740ce86316ce4aa348386",
+    "releaseNotes":  "v1.0.4: 通常起動を軽量化。不整合検出時のみ安全バックアップを作成して修復・総合監査します。画面切替時の全シート再処理を廃止しました。",
+    "downloadUrl":  "https://raw.githubusercontent.com/tanaka456jp/USA-Converter-Releases/main/updates/USA-Converter_v1.0.4.xlsm",
+    "customerReady":  true
 }
